@@ -7,3 +7,6 @@ En este proyecto se trabajo sobre:
 * Codable
 * UITabBArController
 * UIStoryboard.
+* GCD
+* performSelector()
+* Quality of Service
