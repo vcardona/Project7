@@ -10,3 +10,5 @@ En este proyecto se trabajo sobre:
 * GCD
 * performSelector()
 * Quality of Service
+
+![](Project7.gif)
